@@ -1,0 +1,27 @@
+for x in range(9):
+    print(x+1,end="\t")
+print()
+for x in range(9):
+    print(x*2+2,end="\t")
+print()
+for x in range(9):
+    print(x*3+3,end="\t")
+print()
+for x in range(9):
+    print(x*4+4,end="\t")
+print()
+for x in range(9):
+    print(x*5+5,end="\t")
+print()
+for x in range(9):
+    print(x*6+6,end="\t")
+print()
+for x in range(9):
+    print(x*7+7,end="\t")
+print()
+for x in range(9):
+    print(x*8+8,end="\t")
+print()
+for x in range(9):
+    print(x*9+9,end="\t")
+print()
