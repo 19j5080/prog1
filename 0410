@@ -2,3 +2,4 @@ for a in range(6):
     print(a+1,end=" ")
 a = a + 1
 print(a+1,end=" ")
+
