@@ -1,0 +1,6 @@
+b = 0
+a = 10
+for x in range(7):
+    b = a
+    a = a + 2.5
+    print(b,end=" ")
