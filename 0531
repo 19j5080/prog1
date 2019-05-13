@@ -1,0 +1,7 @@
+n = 3
+for y in range(n):
+    for x in range(n-y):
+        print(" ",end=" ")
+    for z in range(n-x):
+        print("*",end=" ")
+    print()
