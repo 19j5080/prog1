@@ -1,0 +1,11 @@
+h = [0 for x in range(10)]
+for x in range(len(h)):
+    h = [x for x in range(10)]
+for x in range(len(h)):
+    print(h[x],end=" ")
+print()
+w = [0 for x in range(10)]
+for z in range(len(w)):
+    w = [z for z in range(10)]
+for z in range(len(w)):
+    print(w[z],end=" ")
