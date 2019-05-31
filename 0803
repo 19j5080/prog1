@@ -4,4 +4,4 @@ def ave_2():
     r = (a+b)/2
     return r
 r = ave_2()
-print("average 1s",r)
+print("average is",r)
